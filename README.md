@@ -7,6 +7,8 @@ cmake ..
 
 cmake --build .
 
+move the file test_10000_2.txt into the build/tests folder once its been built
+
 ctest -R
 
 inorder to compile and run my code. My tests are located in teh tests folder.
