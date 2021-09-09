@@ -1,25 +1,3 @@
-# CS 591 A1: Data Systems Architecture - TemplateDB
-
-
-## About
-
-TemplateDB is a simple template for you, the student, to use for the systems
-implementation project in CS 591. Note that this is a simple template, it is
-not extensive, rather it is meant to help guide you on what we expect when
-you implement the LSM tree. You can use this as base code or start from
-scratch.
-
-
-## Requirements
-
-You will need the following on your system (or alternatively develop on the
-CSA machines)
-
-    1. CMake
-    2. C++ Compiler
-    3. GoogleTest (Auto compiled and fetched with CMake)
-
-
 
 ## Usage
 
@@ -87,8 +65,3 @@ OPERATOR,KEY,ARGS
 ```
 
 with the first line being the number of total operations.
-
-## Contact
-
-If you have any questions please feel free to see Andy in office hours, or
-email me at ndhuynh@bu.edu.
